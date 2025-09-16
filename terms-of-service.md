@@ -11,92 +11,79 @@ BEHINDLOGIN=false
 
 ## Terms of Service
 
+_Last updated: 13 September 2025_
 
-##### 1. Introduction  
-Welcome to osunolimits.dev, an osu! private server operated by Marc Andre Herpers ("we," "our," or "us"). By using our website and services, you agree to these Terms of Service ("Terms"). If you do not agree, please discontinue use of our services.
-
----
-
-##### 2. Services  
-osunolimits.dev provides a private osu! game server and related features. Services include account creation, game statistics tracking, and leaderboard management.
+### 1. Introduction  
+Welcome to **osunolimits.dev**, a private osu! game server operated by **Marc Andre Herpers** (“we,” “our,” “us”).  
+By creating an account or using any of our services, you accept these Terms.  
+If you do not agree, please discontinue use.
 
 ---
 
-##### 3. Data Collection and Storage  
-We collect and store the following personal data when you register an account:  
-
-- **Username**  
-- **Email Address**  
-- **In-Game Logins (for authentication purposes)**  
-
-We process this data in compliance with applicable data protection laws.
+### 2. Services  
+We provide a private osu! game server and related features such as account creation, gameplay statistics, and leaderboards.
 
 ---
 
-##### 4. Account Deletion Requests  
-If you wish to delete your account and remove your personal data from our servers, send a deletion request to:  
+### 3. Personal Data We Process  
+To operate the service we process only the data required for gameplay, security, and fraud prevention.  
+When you register and play, the following may be collected:
 
-**Email:** webmaster@osunolimits.dev  
+* **Account data** – username, email address, password hash, login timestamps, IP addresses  
+* **osu! client identifiers** – cryptographic hashes of hardware components (e.g., hard-drive / client IDs) and of the osu! client installation  
+* **Game activity** – scores, performance statistics, leaderboard positions  
 
-Please include your registered username and email address for verification purposes. Account deletions are irreversible.
-
----
-
-##### 5. Use of Third-Party Services  
-We use the following third-party services:  
-
-- **Cloudflare Bacon Insights:** For performance monitoring and analytics.  
-- **Cloudflare Turnstile:** For spam and bot protection during login and registration.  
-- **Stripe Checkout:** For secure payment processing on Stripe’s website.
-
-These services operate according to their respective terms and privacy policies.
+Processing is based on **Art. 6(1)(b) GDPR** (performance of a contract) and **Art. 6(1)(f) GDPR** (legitimate interest in security and maintaining a fair game environment).  
+Server logs are retained briefly (up to 7 days) for security and then deleted or anonymised.
 
 ---
 
-###### 6. Payments  
-Payments for premium features are processed through Stripe Checkout. You will be redirected to Stripe’s secure payment page. We do not store payment details on our servers.
+### 4. Accessing or Deleting Your Data  
+You can **request a copy of your stored personal data** or **delete your account** at any time:
+
+* Log in and open **Settings → Privacy / Data** to download or delete your data directly, **or**  
+* Email **webmaster@osunolimits.dev** with your username and registered email for assistance.
+
+Account deletion removes all personal data and is irreversible.
 
 ---
 
-##### 7. Privacy and Data Protection  
-We are committed to protecting your personal data. Our Data Protection Officer is:  
+### 5. Third-Party Services  
+To provide the service we use:
 
-**Marc Andre Herpers**  
+* **Cloudflare** – network security, performance optimisation, and Turnstile bot protection  
+* **Ko-fi** – optional donation processing (handled entirely on Ko-fi’s site)
 
-For data protection inquiries, please contact us through the official support channels listed on our website.
-
----
-
-##### 8. User Responsibilities  
-By using our services, you agree to:  
-
-- Provide accurate and truthful registration information.  
-- Respect other users and follow community guidelines.  
-- Not engage in fraudulent or abusive activities.
+Each provider operates under its own privacy policy and appropriate EU safeguards.
 
 ---
 
-##### 9. Account Termination  
-We reserve the right to suspend or terminate accounts that violate these Terms or engage in prohibited behavior.
+### 6. User Responsibilities  
+You agree to:
+
+* Provide accurate registration details  
+* Respect other users and follow community rules  
+* Refrain from fraud, abuse, cheating, or attempts to disrupt the service
 
 ---
 
-##### 10. Limitation of Liability  
-We are not responsible for any indirect or incidental damages resulting from service disruptions, data loss, or third-party service issues.
+### 7. Account Suspension  
+We may suspend or terminate accounts for violations of these Terms or applicable law.
 
 ---
 
-##### 11. Changes to These Terms  
-We may update these Terms from time to time. Significant changes will be announced on our website.
+### 8. Liability  
+Service is provided “as is.” We are not liable for indirect or incidental damages such as downtime, data loss, or third-party failures, except where mandatory law applies.
 
 ---
 
-##### 12. Contact Information  
-For any questions about these Terms, please contact us through the official support channels listed on osunolimits.dev.
+### 9. Updates to These Terms  
+We may update these Terms to reflect changes in law or service. Significant changes will be announced on the website; continued use constitutes acceptance.
 
 ---
 
-_Last updated: 08.12.2024_  
-
+### 10. Contact  
+Questions regarding these Terms or data protection:  
+**Email:** [webmaster@osunolimits.dev](mailto:webmaster@osunolimits.dev)
 
 * * *

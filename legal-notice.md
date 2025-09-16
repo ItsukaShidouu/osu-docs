@@ -9,37 +9,32 @@ BEHINDLOGIN=false
 -->
 * * *
 
-#### Legal Notice
+#### Legal Notice (Impressum)
 
-Data according to Section 5 TMG:
+Information pursuant to § 5 TMG  
 
-Marc Andre Herpers
+Marc Andre Herpers  
+Reinhold-Büttner-Straße 5  
+47445 Moers  
+Germany  
 
-Reinhold-Büttner Straße 5
-47445 Moers
+**Responsible for content (§ 55 Abs. 2 RStV)**  
+Marc Andre Herpers  
 
-Germany
+**Contact**  
+Email: [webmaster@osunolimits.dev](mailto:webmaster@osunolimits.dev)  
+Website: [https://osunolimits.dev](https://osunolimits.dev)
 
-Represented by:
+---
 
-Marc Andre Herpers
+### Disclaimer
 
-Contact Information
+**Content responsibility**  
+The contents of this website were created with great care. However, no guarantee can be given for completeness, accuracy, or timeliness.  
+According to §§ 7–10 TMG, we are responsible for our own content but not for monitoring transmitted or stored external information.
 
-Email: [webmaster@osunolimits.dev](webmaster@osunolimits.dev)
-
-Website: [osunolimits.dev](osunolimits.dev)
-
-Private website owner
-
-No value-added tax (VAT) charged due to the small business scheme
-
-_Disclaimer_
-
-Responsibility for Content
-The content of our websites has been created with the utmost care. Nevertheless, we cannot guarantee that the content is current, reliable, or complete. According to legal provisions, we are responsible for the content we create on osunolimits.dev. In this context, we would like to clarify that we are not responsible for information provided by third parties or collected by them. We neither control the information sent nor do we track possible illegal activities. If illegal activities are identified, we follow our obligation to block or delete the corresponding content, in accordance with paragraphs 8 to 10 of the Telemedia Act (TMG).
-
-Responsibility for Links
-The responsibility for content from third-party links (external content) lies with the respective website operators. At the time of inserting the links used on our pages, no illegal activities were identified in them. Once we become aware of illegal activities or violations, we will remove the corresponding link.
+**Links**  
+External links are provided for convenience only. Their providers are solely responsible for their content.  
+Illegal content was not recognizable at the time the links were set. If such content becomes known, the corresponding links will be removed promptly.
 
 * * *
