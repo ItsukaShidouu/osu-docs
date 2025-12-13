@@ -42,7 +42,7 @@ Server logs are retained briefly (up to 7 days) for security and then deleted or
 You can **request a copy of your stored personal data** or **delete your account** at any time:
 
 * Log in and open **Settings → Privacy / Data** to download or delete your data directly, **or**  
-* Email **webmaster@osunolimits.dev** with your username and registered email for assistance.
+* Email **dev@ness.biz.id** with your username and registered email for assistance.
 
 Account deletion removes all personal data and is irreversible.
 
@@ -84,6 +84,6 @@ We may update these Terms to reflect changes in law or service. Significant chan
 
 ### 10. Contact  
 Questions regarding these Terms or data protection:  
-**Email:** [webmaster@osunolimits.dev](mailto:webmaster@osunolimits.dev)
+**Email:** [dev@ness.biz.id](mailto:dev@ness.biz.id)
 
 * * *
