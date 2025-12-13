@@ -14,19 +14,5 @@ BEHINDLOGIN=false
 Enter for target after the path for osu! ` -devserver haruka.my.id`
 <input class="form-control" type="readonly" id="dev" value=" -devserver haruka.my.id"></input>
 <a class="btn btn-info" onclick="copydev()">Copy devserver</a>
-### 2. OLL Launcher
-osu-server-list Launcher powered by <a href="https://osu-server-list.com/launcher">https://osu-server-list.com</a>
-<a class="btn btn-info" target="_blank" href="https://osu-server-list.com/launcher">Download</a>
-<script>
-    function copydev() {
-        var copyText = document.getElementById("dev");
-        // Select the text field
-        copyText.select();
-        copyText.setSelectionRange(0, 99999); // For mobile devices
-        // Copy the text inside the text field
-        navigator.clipboard.writeText(copyText.value);
-        // Alert the copied text
-        alert("Copied the text: " + copyText.value);
-    }
-</script>
+
 Do you still have issues? visit out <a href="https://discord.gg/Q6kQRdsB4p">Discord</a>
