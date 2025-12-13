@@ -11,10 +11,10 @@ BEHINDLOGIN=false
 
 #### Legal Notice (Impressum)
 
-Information pursuant to § 5 TMG  
+Information pursuant to 5 TMG  
 
 Marc Andre Herpers  
-Reinhold-Büttner-Straße 5  
+Reinhold-Büttner-Strabe 5  
 47445 Moers  
 Germany  
 
@@ -22,8 +22,8 @@ Germany
 Marc Andre Herpers  
 
 **Contact**  
-Email: [webmaster@osunolimits.dev](mailto:webmaster@osunolimits.dev)  
-Website: [https://osunolimits.dev](https://osunolimits.dev)
+Email: [dev@ness.biz.id](mailto:dev@ness.biz.id)  
+Website: [https://ness.biz.id](https://ness.biz.id)
 
 ---
 
